@@ -1,0 +1,8 @@
+source "http://rubygems.org"
+
+gem "sinatra"
+gem "shotgun"
+gem "geokit"
+gem "timezone"
+gem "open-uri"
+gem "json"

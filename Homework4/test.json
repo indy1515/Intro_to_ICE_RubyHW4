@@ -1,0 +1,161 @@
+{
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Bangkok", 
+                    "short_name": "Bangkok", 
+                    "types": [
+                        "locality", 
+                        "political"
+                    ]
+                }, 
+                {
+                    "long_name": "Thailand", 
+                    "short_name": "TH", 
+                    "types": [
+                        "country", 
+                        "political"
+                    ]
+                }
+            ], 
+            "formatted_address": "Bangkok, Thailand", 
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 13.955111, 
+                        "lng": 100.938408
+                    }, 
+                    "southwest": {
+                        "lat": 13.49409, 
+                        "lng": 100.3278136
+                    }
+                }, 
+                "location": {
+                    "lat": 13.7278956, 
+                    "lng": 100.5241235
+                }, 
+                "location_type": "APPROXIMATE", 
+                "viewport": {
+                    "northeast": {
+                        "lat": 13.955111, 
+                        "lng": 100.938408
+                    }, 
+                    "southwest": {
+                        "lat": 13.49409, 
+                        "lng": 100.3278136
+                    }
+                }
+            }, 
+            "types": [
+                "locality", 
+                "political"
+            ]
+        }, 
+        {
+            "address_components": [
+                {
+                    "long_name": "Bangkok", 
+                    "short_name": "Bangkok", 
+                    "types": [
+                        "administrative_area_level_1", 
+                        "political"
+                    ]
+                }, 
+                {
+                    "long_name": "Thailand", 
+                    "short_name": "TH", 
+                    "types": [
+                        "country", 
+                        "political"
+                    ]
+                }
+            ], 
+            "formatted_address": "Bangkok, Thailand", 
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 13.955110899999999, 
+                        "lng": 100.9384077
+                    }, 
+                    "southwest": {
+                        "lat": 13.49409, 
+                        "lng": 100.3278136
+                    }
+                }, 
+                "location": {
+                    "lat": 13.7234186, 
+                    "lng": 100.4762319
+                }, 
+                "location_type": "APPROXIMATE", 
+                "viewport": {
+                    "northeast": {
+                        "lat": 13.955110899999999, 
+                        "lng": 100.9384077
+                    }, 
+                    "southwest": {
+                        "lat": 13.49409, 
+                        "lng": 100.3278136
+                    }
+                }
+            }, 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ]
+        }, 
+        {
+            "address_components": [
+                {
+                    "long_name": "Phra Nakhon Si Ayutthaya", 
+                    "short_name": "\u0e08.\u0e1e\u0e23\u0e30\u0e19\u0e04\u0e23\u0e28\u0e23\u0e35\u0e2d\u0e22\u0e38\u0e18\u0e22\u0e32", 
+                    "types": [
+                        "administrative_area_level_1", 
+                        "political"
+                    ]
+                }, 
+                {
+                    "long_name": "Thailand", 
+                    "short_name": "TH", 
+                    "types": [
+                        "country", 
+                        "political"
+                    ]
+                }
+            ], 
+            "formatted_address": "Phra Nakhon Si Ayutthaya, Thailand", 
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 14.6755751, 
+                        "lng": 100.8232816
+                    }, 
+                    "southwest": {
+                        "lat": 14.1105626, 
+                        "lng": 100.21269580000001
+                    }
+                }, 
+                "location": {
+                    "lat": 14.393068899999999, 
+                    "lng": 100.5179887
+                }, 
+                "location_type": "APPROXIMATE", 
+                "viewport": {
+                    "northeast": {
+                        "lat": 14.6755751, 
+                        "lng": 100.8232816
+                    }, 
+                    "southwest": {
+                        "lat": 14.1105626, 
+                        "lng": 100.21269580000001
+                    }
+                }
+            }, 
+            "types": [
+                "administrative_area_level_1", 
+                "political"
+            ]
+        }
+    ], 
+    "status": "OK"
+}
